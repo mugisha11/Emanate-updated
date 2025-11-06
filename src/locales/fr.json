@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "programmes": "Programmes",
+    "news": "Actualités",
+    "contact": "Contact"
+  },
+  "join": "Rejoignez-nous",
+  "header": {
+    "language_label": "Langue"
+  },
+  "hero": {
+    "welcome": "Bienvenue",
+    "title": "EMANATE",
+    "cards": {
+      "introduction_title": "Introduction",
+      "introduction_body": "EMANATE est une institut axé sur la recherche et le plaidoyer, traitant des questions familiales et démographiques par des interventions fondées sur les données.",
+      "vision_title": "Notre Vision",
+      "vision_body": "Devenir un centre de référence pour des approches fondées sur des preuves concernant les politiques, les programmes et la prise de décision en matière de famille et de population.",
+      "mission_title": "Notre Mission",
+      "mission_body": "EMANATE met à profit les preuves pour des solutions durables aux problèmes familiaux et démographiques.",
+      "work_title": "Notre Travail",
+      "work_body": "Nous appliquons une compréhension approfondie de la recherche, de l'analyse et du plaidoyer pour garantir une communication efficace sur les questions familiales et démographiques."
+    }
+  },
+  "footer": {
+    "tagline": "Des preuves pour des solutions durables aux problèmes de population et de la famille.",
+    "research_heading": "Recherche & Ressources",
+    "research": {
+      "publications": "Publications",
+      "case_studies": "Études de cas",
+      "data": "Données & Statistiques",
+      "reports": "Rapports",
+      "library": "Bibliothèque numérique"
+    },
+    "areas_heading": "Domaines clés",
+    "areas": {
+      "health": "Santé publique",
+      "education": "Éducation",
+      "gender": "Égalité des sexes",
+      "youth": "Développement des jeunes",
+      "policy": "Conseil en politiques"
+    },
+    "info_heading": "Informations",
+    "info": {
+      "team": "Notre équipe",
+      "partnerships": "Partenariats",
+      "careers": "Carrières",
+      "contact": "Contactez-nous",
+      "privacy": "Politique de confidentialité"
+    },
+    "contact_heading": "Coordonnées",
+    "contact": {
+      "location": "Kigali, Rwanda",
+      "email": "info@evidencesmatter.org",
+      "phone": "+250 788 426 428",
+      "hours": "Lundi - Vendredi, 8:00 AM - 5:00 PM"
+    },
+    "newsletter": {
+      "heading": "Newsletter",
+      "placeholder": "Entrez votre e-mail",
+      "subscribe": "S'abonner"
+    },
+    "copyright": "© {{year}} EMANATE. Tous droits réservés."
+  }
+  ,
+  "contact": {
+    "header": "Contactez-nous",
+    "subheader": "Nous serions ravis d'avoir de vos nouvelles. Contactez-nous pour toute question ou pour vous impliquer.",
+    "send_heading": "Envoyez-nous un message",
+    "success_message": "Message envoyé avec succès! Nous reviendrons vers vous bientôt.",
+    "error_message": "Échec de l'envoi du message. Veuillez réessayer plus tard.",
+    "label_name": "Nom complet",
+    "label_email": "Adresse e-mail",
+    "label_subject": "Sujet",
+    "label_message": "Message",
+    "send_button": "Envoyer le message",
+    "sending": "Envoi...",
+    "info_heading": "Nos coordonnées",
+    "address_label": "Adresse",
+    "address": "Kigali, Rwanda",
+    "phone_label": "Téléphone",
+    "phone": "+250 788 426 428",
+    "email_label": "E-mail",
+    "email": "info@imanate.org",
+    "map_heading": "Trouvez-nous sur la carte",
+    "map_placeholder": "Emplacement de la carte"
+  }
+}

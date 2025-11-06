@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programmes": "Programmes",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "news": {
+    "error_title": "Unable to Load Posts",
+    "error_message": "We couldn't load the latest updates. Please check your connection and try again.",
+    "try_again": "Try Again"
+  },
+  "join": "Join Us",
+  "header": {
+    "language_label": "Language"
+  },
+  "hero": {
+    "welcome": "Welcome to",
+    "title": "EMANATE",
+    "cards": {
+      "introduction_title": "Introduction",
+      "introduction_body": "EMANATE is a research and advocacy driven institute, addressing Family and Population matters through data-driven interventions.",
+      "vision_title": "Our Vision",
+      "vision_body": "To become a Center of reference for population and Family holistic evidence-based advocacy, programmes, and Decision making.",
+      "mission_title": "Our Mission",
+      "mission_body": "EMANATE harnesses the use of evidence for sustainable solutions to population and family problems.",
+      "work_title": "Our Work",
+      "work_body": "We apply extensive understanding of research, analysis and advocacy on population and family matters to ensure effective communication."
+    }
+  },
+  "footer": {
+    "tagline": "Evidence for sustainable solutions to population and family problems.",
+    "research_heading": "Research & Resources",
+    "research": {
+      "publications": "Publications",
+      "case_studies": "Case Studies",
+      "data": "Data & Statistics",
+      "reports": "Reports",
+      "library": "Digital Library"
+    },
+    "areas_heading": "Key Areas",
+    "areas": {
+      "health": "Public Health",
+      "education": "Education",
+      "gender": "Gender Equality",
+      "youth": "Youth Development",
+      "policy": "Policy Advisory"
+    },
+    "info_heading": "Information",
+    "info": {
+      "team": "Our Team",
+      "partnerships": "Partnerships",
+      "careers": "Careers",
+      "contact": "Contact Us",
+      "privacy": "Privacy Policy"
+    },
+    "contact_heading": "Contact Details",
+    "contact": {
+      "location": "Kigali, Rwanda",
+      "email": "info@evidencesmatter.org",
+      "phone": "+250 788 426 428",
+      "hours": "Monday - Friday, 8:00 AM - 5:00 PM"
+    },
+    "newsletter": {
+      "heading": "Newsletter",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "© {{year}} EMANATE. All rights reserved."
+  }
+  ,
+  "contact": {
+    "header": "Contact Us",
+    "subheader": "We'd love to hear from you. Reach out with any questions or to get involved.",
+    "send_heading": "Send us a Message",
+    "success_message": "Message sent successfully! We'll get back to you soon.",
+    "error_message": "Failed to send message. Please try again later.",
+    "label_name": "Full Name",
+    "label_email": "Email Address",
+    "label_subject": "Subject",
+    "label_message": "Message",
+    "send_button": "Send Message",
+    "sending": "Sending...",
+    "info_heading": "Our Contact Information",
+    "address_label": "Address",
+    "address": "Kigali, Rwanda",
+    "phone_label": "Phone",
+    "phone": "+250 788 426 428",
+    "email_label": "Email",
+    "email": "info@imanate.org",
+    "map_heading": "Find Us on the Map",
+    "map_placeholder": "Map placeholder"
+  }
+}

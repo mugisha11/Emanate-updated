@@ -1,0 +1,396 @@
+{
+  "name": "EMANATE - Empowering Communities Through Research and Advocacy",
+  "shortName": "EMANATE",
+  "description": "EMANATE is a women-led research and advocacy institute dedicated to solving population and family challenges through data-driven policy, sustainable programmes, and community engagement.",
+  "longDescription": "EMANATE leverages evidence-based research, cutting-edge data analytics, and grassroots advocacy to transform communities and influence policy decisions. Our work spans public health, gender equality, education, youth development, and policy advisory services.",
+  "keywords": {
+    "primary": [
+      "research institute africa",
+      "women led organization",
+      "policy research africa",
+      "community development africa",
+      "african research institute",
+      "evidence based policy africa",
+      "social impact research",
+      "african development research",
+      "community empowerment africa",
+      "policy advocacy organization"
+    ],
+    "services": [
+      "public health research",
+      "gender equality advocacy",
+      "education policy research",
+      "youth development programs",
+      "policy advisory services",
+      "community health initiatives",
+      "women empowerment programs",
+      "data driven research",
+      "sustainable development goals",
+      "capacity building programs"
+    ],
+    "expertise": [
+      "data analytics research",
+      "policy impact assessment",
+      "community engagement",
+      "research methodology",
+      "social impact measurement",
+      "program evaluation",
+      "evidence based advocacy",
+      "development research",
+      "participatory research",
+      "policy implementation"
+    ],
+    "geographic": [
+      "african research",
+      "east africa development",
+      "west africa programs",
+      "southern africa research",
+      "central africa initiatives",
+      "pan african development",
+      "africa policy research",
+      "african communities",
+      "african social impact",
+      "african advocacy"
+    ],
+    "topics": [
+      "maternal health africa",
+      "child education programs",
+      "gender based violence",
+      "youth empowerment",
+      "community health systems",
+      "women leadership africa",
+      "education access",
+      "health equity research",
+      "policy reform africa",
+      "sustainable development"
+    ],
+    "methodologies": [
+      "mixed methods research",
+      "quantitative analysis",
+      "qualitative research",
+      "impact evaluation",
+      "needs assessment",
+      "community based research",
+      "participatory methods",
+      "data driven analysis",
+      "policy research methods",
+      "evidence synthesis"
+    ]
+  },
+  "brand": {
+    "colors": {
+      "primary": "#00A8E0",
+      "secondary": "#0077B6",
+      "accent": "#0284c7",
+      "text": {
+        "primary": "#1F2937",
+        "secondary": "#4B5563",
+        "light": "#FFFFFF"
+      },
+      "background": {
+        "primary": "#FFFFFF",
+        "secondary": "#F3F4F6",
+        "dark": "#111827"
+      }
+    },
+    "fonts": {
+      "primary": "system-ui, -apple-system, sans-serif",
+      "headings": "system-ui, -apple-system, sans-serif",
+      "weights": {
+        "regular": 400,
+        "medium": 500,
+        "semibold": 600,
+        "bold": 700
+      }
+    },
+    "logo": {
+      "primary": "/components/img/logo.jpg",
+      "alternative": "/components/img/logo-alt.jpg",
+      "favicon": "/favicon.ico",
+      "sizes": {
+        "small": "32x32",
+        "medium": "192x192",
+        "large": "512x512"
+      }
+    }
+  },
+  "organization": {
+    "type": "ResearchOrganization",
+    "foundedYear": 2023,
+    "registrationNumber": "REG123456789",
+    "taxId": "TAX123456789",
+    "location": {
+      "country": "Global",
+      "headquarters": "Africa",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "operatingRegions": [
+        "East Africa",
+        "West Africa",
+        "Southern Africa",
+        "Central Africa"
+      ]
+    },
+    "leadership": {
+      "type": "Women-Led Organization",
+      "commitment": "Gender Equality and Community Empowerment",
+      "structure": {
+        "board": "Independent Board of Directors",
+        "executive": "Executive Leadership Team",
+        "advisory": "Scientific Advisory Committee"
+      },
+      "governance": {
+        "type": "Non-Profit",
+        "policies": [
+          "Ethics Policy",
+          "Research Integrity",
+          "Data Protection",
+          "Gender Equality"
+        ]
+      }
+    },
+    "certifications": [
+      {
+        "name": "ISO 9001:2015",
+        "issuer": "International Organization for Standardization",
+        "validUntil": "2026-12-31"
+      },
+      {
+        "name": "Research Excellence Framework",
+        "issuer": "International Research Council",
+        "validUntil": "2026-12-31"
+      }
+    ]
+  },
+  "contact": {
+    "email": "contact@emanate.org",
+    "website": "https://emanate.org",
+    "social": {
+      "twitter": "@emanate_org",
+      "linkedin": "emanate-organization",
+      "facebook": "emanateorg"
+    }
+  },
+  "focus": {
+    "areas": [
+      {
+        "name": "Public Health",
+        "description": "Improving community health outcomes through research and intervention",
+        "subAreas": [
+          "Maternal Health",
+          "Child Health",
+          "Community Health",
+          "Health Systems"
+        ]
+      },
+      {
+        "name": "Gender Equality",
+        "description": "Promoting gender equity and women's empowerment",
+        "subAreas": [
+          "Women's Rights",
+          "Economic Empowerment",
+          "Leadership Development",
+          "Gender-Based Violence Prevention"
+        ]
+      },
+      {
+        "name": "Education",
+        "description": "Advancing educational opportunities and outcomes",
+        "subAreas": [
+          "Early Childhood Education",
+          "STEM Education",
+          "Adult Learning",
+          "Digital Literacy"
+        ]
+      },
+      {
+        "name": "Youth Development",
+        "description": "Empowering youth through skills and opportunities",
+        "subAreas": [
+          "Skills Development",
+          "Leadership Training",
+          "Entrepreneurship",
+          "Civic Engagement"
+        ]
+      },
+      {
+        "name": "Policy Advisory",
+        "description": "Informing policy through research and evidence",
+        "subAreas": [
+          "Policy Analysis",
+          "Impact Assessment",
+          "Stakeholder Engagement",
+          "Policy Implementation"
+        ]
+      }
+    ],
+    "approaches": [
+      {
+        "name": "Evidence-Based Research",
+        "methodologies": [
+          "Quantitative Analysis",
+          "Qualitative Research",
+          "Mixed Methods",
+          "Longitudinal Studies"
+        ],
+        "tools": [
+          "Statistical Analysis",
+          "Data Visualization",
+          "Survey Design",
+          "Impact Evaluation"
+        ]
+      },
+      {
+        "name": "Data Analytics",
+        "technologies": [
+          "Machine Learning",
+          "Predictive Analytics",
+          "Big Data Analysis",
+          "Real-time Analytics"
+        ],
+        "applications": [
+          "Trend Analysis",
+          "Impact Measurement",
+          "Decision Support",
+          "Performance Monitoring"
+        ]
+      },
+      {
+        "name": "Community Engagement",
+        "strategies": [
+          "Participatory Research",
+          "Community Mobilization",
+          "Stakeholder Consultation",
+          "Local Capacity Building"
+        ],
+        "channels": [
+          "Community Forums",
+          "Digital Platforms",
+          "Local Partnerships",
+          "Grassroots Networks"
+        ]
+      },
+      {
+        "name": "Policy Advocacy",
+        "methods": [
+          "Evidence Synthesis",
+          "Policy Briefs",
+          "Stakeholder Engagement",
+          "Public Communication"
+        ],
+        "targets": [
+          "Government Agencies",
+          "International Organizations",
+          "Civil Society",
+          "Private Sector"
+        ]
+      },
+      {
+        "name": "Capacity Building",
+        "programs": [
+          "Training Workshops",
+          "Mentorship",
+          "Technical Assistance",
+          "Knowledge Exchange"
+        ],
+        "outcomes": [
+          "Skill Development",
+          "Institutional Strengthening",
+          "Knowledge Transfer",
+          "Sustainable Impact"
+        ]
+      }
+    ],
+    "impact": {
+      "measurement": {
+        "frameworks": [
+          "Theory of Change",
+          "Results Framework",
+          "Impact Metrics",
+          "SDG Alignment"
+        ],
+        "indicators": {
+          "quantitative": [
+            "Reach metrics",
+            "Outcome indicators",
+            "Impact measures"
+          ],
+          "qualitative": [
+            "Case studies",
+            "Success stories",
+            "Stakeholder feedback"
+          ]
+        }
+      },
+      "reporting": {
+        "frequency": "Quarterly",
+        "formats": [
+          "Impact Reports",
+          "Data Dashboards",
+          "Stakeholder Updates"
+        ]
+      }
+    }
+  },
+  "languages": ["en", "fr", "sw"],
+  "searchMetadata": {
+    "metatags": {
+      "title": "EMANATE | African Research & Advocacy Institute",
+      "description": "Leading African research institute focusing on evidence-based policy, community development, and social impact through data-driven approaches and community engagement.",
+      "robots": "index, follow",
+      "viewport": "width=device-width, initial-scale=1",
+      "themeColor": "#00A8E0",
+      "ogTitle": "EMANATE - Research & Advocacy for African Development",
+      "ogDescription": "Evidence-based research and advocacy for sustainable community development in Africa",
+      "ogType": "website",
+      "ogLocale": "en_US",
+      "twitterCard": "summary_large_image"
+    },
+    "semanticTags": [
+      "African Research",
+      "Policy Institute",
+      "Community Development",
+      "Evidence-Based Research",
+      "Social Impact",
+      "Data Analytics",
+      "Advocacy Organization",
+      "Sustainable Development",
+      "Women Leadership",
+      "Development Programs"
+    ],
+    "contentCategories": [
+      "Research and Analysis",
+      "Policy Development",
+      "Community Empowerment",
+      "Social Impact",
+      "Development Programs",
+      "African Studies",
+      "Gender Equality",
+      "Public Health",
+      "Education",
+      "Youth Development"
+    ]
+  },
+  "app": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-11-04",
+    "multilingual": ["en", "fr", "sw"],
+    "accessibility": "WCAG 2.1 Level AA"
+  },
+  "technical": {
+    "stack": {
+      "frontend": "React, TypeScript, TailwindCSS",
+      "backend": "Node.js, Express, PHP",
+      "database": "MySQL",
+      "security": "SSL, JWT, AES-256"
+    },
+    "features": {
+      "responsive": true,
+      "accessible": true,
+      "multilingual": true,
+      "secure": true
+    }
+  }
+}

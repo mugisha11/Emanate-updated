@@ -1,0 +1,14 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+const VolunteerPage: React.FC = () => {
+  return (
+    <div className="max-w-4xl mx-auto py-16 px-4 text-center">
+      <h1 className="text-3xl font-bold mb-4">Become a Volunteer</h1>
+      <p className="text-gray-700 mb-6">We welcome volunteers — please fill the Join form to apply and we'll contact you.</p>
+  <Link to="/join" className="inline-block bg-cyan-600 text-white px-6 py-3 rounded-md">Apply to Volunteer</Link>
+    </div>
+  );
+};
+
+export default VolunteerPage;

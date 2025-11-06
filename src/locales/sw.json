@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "programmes": "Programu",
+    "news": "Habari",
+    "contact": "Wasiliana"
+  },
+  "join": "Jiunge Nasi",
+  "header": {
+    "language_label": "Lugha"
+  },
+  "hero": {
+    "welcome": "Karibu",
+    "title": "EMANATE",
+    "cards": {
+      "introduction_title": "Utangulizi",
+      "introduction_body": "EMANATE ni taasisi inayojikita katika utafiti na utetezi, ikishughulikia masuala ya familia na idadi ya watu kupitia hatua za msingi za data.",
+      "vision_title": "Maono Yetu",
+      "vision_body": "Kuwa Kituo cha rufaa kwa ushahidi wa pamoja wa sera, programu, na maamuzi kuhusu familia na idadi ya watu.",
+      "mission_title": "Dhamira Yetu",
+      "mission_body": "EMANATE inatumia ushahidi kwa ajili ya suluhisho endelevu kwa matatizo ya familia na idadi ya watu.",
+      "work_title": "Kazi Yetu",
+      "work_body": "Tunatumia uelewa mpana wa utafiti, uchambuzi na utetezi katika masuala ya familia na idadi ya watu ili kuhakikisha mawasiliano yenye ufanisi."
+    }
+  },
+  "footer": {
+    "tagline": "Ushahidi kwa suluhisho endelevu kwa masuala ya idadi ya watu na familia.",
+    "research_heading": "Utafiti & Rasilimali",
+    "research": {
+      "publications": "Machapisho",
+      "case_studies": "Hadi za Kesi",
+      "data": "Data & Takwimu",
+      "reports": "Ripoti",
+      "library": "Maktaba ya Dijitali"
+    },
+    "areas_heading": "Sehemu Muhimu",
+    "areas": {
+      "health": "Afya ya Umma",
+      "education": "Elimu",
+      "gender": "Usawa wa Jinsia",
+      "youth": "Maendeleo ya Vijana",
+      "policy": "Ushauri wa Sera"
+    },
+    "info_heading": "Taarifa",
+    "info": {
+      "team": "Timu Yetu",
+      "partnerships": "Ushirikiano",
+      "careers": "Kazi",
+      "contact": "Wasiliana Nasi",
+      "privacy": "Sera ya Faragha"
+    },
+    "contact_heading": "Maelezo ya Mawasiliano",
+    "contact": {
+      "location": "Kigali, Rwanda",
+      "email": "info@evidencesmatter.org",
+      "phone": "+250 788 426 428",
+      "hours": "Jumatatu - Ijumaa, 8:00 AM - 5:00 PM"
+    },
+    "newsletter": {
+      "heading": "Jarida",
+      "placeholder": "Weka barua pepe yako",
+      "subscribe": "Jiandikishe"
+    },
+    "copyright": "© {{year}} EMANATE. Haki zote zimehifadhiwa."
+  }
+  ,
+  "contact": {
+    "header": "Wasiliana Nasi",
+    "subheader": "Tunapenda kusikia kutoka kwako. Wasiliana kwa maswali yoyote au kujitolea.",
+    "send_heading": "Tukutumie Ujumbe",
+    "success_message": "Ujumbe umetumwa kwa mafanikio! Tutakujibu hivi karibuni.",
+    "error_message": "Imeshindikana kutuma ujumbe. Tafadhali jaribu tena baadaye.",
+    "label_name": "Jina Kamili",
+    "label_email": "Barua Pepe",
+    "label_subject": "Somo",
+    "label_message": "Ujumbe",
+    "send_button": "Tuma Ujumbe",
+    "sending": "Inatuma...",
+    "info_heading": "Taarifa Zetu za Mawasiliano",
+    "address_label": "Anwani",
+    "address": "Kigali, Rwanda",
+    "phone_label": "Simu",
+    "phone": "+250 788 426 428",
+    "email_label": "Barua Pepe",
+    "email": "info@imanate.org",
+    "map_heading": "Tupatie Ramani",
+    "map_placeholder": "Mahali pa ramani"
+  }
+}
